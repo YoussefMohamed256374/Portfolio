@@ -148,6 +148,7 @@ section {
 	grid-template-columns: repeat(auto-fit, minmax(45rem, 1fr));
 	gap: 3rem;
 	align-items: flex-start;
+	overflow-x: overlay;
 }
 .about .container .image {
 	position: relative;
